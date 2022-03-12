@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hi there 👋 Welcome to Dena J. Clink's GitHub page. This is where I archive my code from peer-reviewed publications, and highlight current projects I am working on. 
 
+##
 <!--
 **DenaJGibbon/DenaJGibbon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
