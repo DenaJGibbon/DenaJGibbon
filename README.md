@@ -1,4 +1,5 @@
-### Hi there 👋 Welcome to Dena J. Clink's GitHub page. This is where I archive my code from peer-reviewed publications, and highlight current projects I am working on. 
+### Hi there 👋 
+Welcome to Dena J. Clink's GitHub page. This is where I archive my code from peer-reviewed publications, and highlight current projects I am working on. 
 
 ##
 <!--
