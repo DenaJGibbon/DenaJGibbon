@@ -14,6 +14,8 @@ behaviouR - R package for online teaching of fundamental concepts in behavior an
 https://github.com/DenaJGibbon/behaviouR 
 
 #### Publications
+The R code for select publications is available here. 
+
 
 <!--
 **DenaJGibbon/DenaJGibbon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
