@@ -4,10 +4,10 @@ Welcome to Dena J. Clink's GitHub page. This is where I archive my code from pee
 #### R Packages
 I currently have two R packages under development.
 
-gibbonR - R package for automated detection and classification of acoustic signals
+gibbonR - R package for automated detection and classification of acoustic signals \
 https://github.com/DenaJGibbon/gibbonR
 
-gibbonID - R package for visualization of acoustic data
+gibbonID - R package for visualization of acoustic data \
 https://github.com/DenaJGibbon/gibbonID  
 
 ##
