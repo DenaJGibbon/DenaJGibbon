@@ -10,6 +10,9 @@ https://github.com/DenaJGibbon/gibbonR
 gibbonID - R package for visualization of acoustic data \
 https://github.com/DenaJGibbon/gibbonID  
 
+behaviouR - R package for online teaching of fundamental concepts in behavior and ecology \
+https://github.com/DenaJGibbon/behaviouR 
+
 ##
 <!--
 **DenaJGibbon/DenaJGibbon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
