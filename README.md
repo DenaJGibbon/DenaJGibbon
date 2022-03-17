@@ -14,7 +14,10 @@ behaviouR - R package for online teaching of fundamental concepts in behavior an
 https://github.com/DenaJGibbon/behaviouR 
 
 #### Publications
-The R code for select publications is available here. 
+You can access PDFs of all of my publications on my website: https://www.denaclink.com/
+
+
+##### The R code for select publications is available here. 
 
 **Clink, D. J.**, Zafar, M. &#42;, Ahmad, A.H. & Lau, A.R. &#42; (2021). Limited evidence for individual signatures or site-level patterns of variation in male Northern gray gibbon (*Hylobates funereus*) duet codas. International Journal of Primatology. 896-914.
 [Code here.](https://github.com/DenaJGibbon/Variation-in-male-gibbon-codas)
