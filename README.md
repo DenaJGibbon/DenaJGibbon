@@ -16,6 +16,8 @@ https://github.com/DenaJGibbon/behaviouR
 #### Publications
 The R code for select publications is available here. 
 
+**Clink, D. J.**, Zafar, M. &#42;, Ahmad, A.H. & Lau, A.R. &#42; (2021). Limited evidence for individual signatures or site-level patterns of variation in male Northern gray gibbon (*Hylobates funereus*) duet codas. International Journal of Primatology.
+[Code here](https://github.com/DenaJGibbon/Variation-in-male-gibbon-codas)
 
 <!--
 **DenaJGibbon/DenaJGibbon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
