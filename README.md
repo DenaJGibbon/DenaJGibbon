@@ -1,5 +1,6 @@
 ### Hi there 👋 
-Welcome to Dena J. Clink's GitHub page. This is where I archive my code from peer-reviewed publications, and highlight current projects I am working on. 
+Welcome to Dena J. Clink's GitHub page. This is where I archive my code from peer-reviewed publications, and highlight current projects I am working on.   
+
 
 #### R Packages
 I currently have three R packages under development.
@@ -13,11 +14,12 @@ https://github.com/DenaJGibbon/gibbonID
 behaviouR - R package for online teaching of fundamental concepts in behavior and ecology \
 https://github.com/DenaJGibbon/behaviouR 
 
+
 #### Publications
-You can access PDFs of all of my publications on my website: https://www.denaclink.com/
+You can access PDFs of all of my publications on my website: https://www.denaclink.com/.
 
 
-##### The R code for select publications is available here. 
+#### The R code for select publications is available here. 
 
 **Clink, D. J.**, Zafar, M. &#42;, Ahmad, A.H. & Lau, A.R. &#42; (2021). Limited evidence for individual signatures or site-level patterns of variation in male Northern gray gibbon (*Hylobates funereus*) duet codas. International Journal of Primatology. 896-914.
 [Code here.](https://github.com/DenaJGibbon/Variation-in-male-gibbon-codas)
