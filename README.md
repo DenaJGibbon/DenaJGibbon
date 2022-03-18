@@ -16,7 +16,10 @@ https://github.com/DenaJGibbon/behaviouR
 
 
 #### Publications
-You can access PDFs of all of my publications on my website: https://www.denaclink.com/.
+You can access PDFs of all of my publications on my website: https://www.denaclink.com/. 
+
+#### Tutorials
+I am slowly starting to convert my code into tutorials. You can access tutorials here: https://www.denaclink.com/post/.
 
 
 #### The R code for select publications is available here. 
