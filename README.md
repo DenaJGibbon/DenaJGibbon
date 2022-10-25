@@ -3,7 +3,7 @@ Welcome to Dena J. Clink's GitHub page. This is where I archive my code from pee
 
 
 #### R Packages
-** gibbonR updates are set for release October 24, 2022 **
+** gibbonR updates are set for release October 31, 2022 **
 
 gibbonR - R package for automated detection, classification and visualization of acoustic signals \
 https://github.com/DenaJGibbon/gibbonR
